@@ -1,3 +1,4 @@
+// Tried to make the code multiplatform, due to libraries
 #include <iostream>
 #include <unistd.h> // For sleep function (Linux)
 #include <termios.h> // For non-blocking input
